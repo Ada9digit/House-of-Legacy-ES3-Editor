@@ -1,12 +1,12 @@
-# House of Legacy ES3 Editor (HTML / Vibe Coding)
+# House of Legacy ES3 Save File Editor
 
 A standalone HTML/JavaScript editor for **GameData.es3** save files of *House of Legacy*.  
 No server required – works entirely in your browser.
 
 ## The References
-- [Save Editing for Dummies](https://steamcommunity.com/sharedfiles/filedetails/?id=3482191362) – Basic save structure, gold, family stats.
-- [Advanced Save Editing (Full Index List)](https://steamcommunity.com/sharedfiles/filedetails/?id=3528502862) – Complete index mapping for members, spouses, retainers.
-- [Spouse & Concubine Index Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=3494698130) – Pregnancy, fertility, and event indexes for spouses.
+- [Save Editing Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3482191362)
+- [Item ID](https://steamcommunity.com/sharedfiles/filedetails/?id=3528502862)
+- [Using the Save Editing tool](https://steamcommunity.com/sharedfiles/filedetails/?id=3494698130)
 
 
 ## ✨ Features
