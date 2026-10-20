@@ -2,7 +2,7 @@
 - [Click Here!](https://house-of-legacy-es3.vercel.app/)
 - A standalone HTML/JavaScript editor for **GameData.es3** save files of *House of Legacy*.
 - No server required, works entirely in your browser.
-- Includes the refactor and save‑format fixes from [DanangSeptiadi's fork](https://github.com/DanangSeptiadi/House-of-Legacy-ES3-Editor) (see [Credits](#-credits--contributors)).
+- **Fork of** [Ada9digit/House-of-Legacy-ES3-Editor](https://github.com/Ada9digit/House-of-Legacy-ES3-Editor) — refactored into separate files for easier maintenance.
 
 ## The References
 - [Save Editing Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3482191362)
@@ -92,13 +92,6 @@ The editor expects a `GameData.es3` file containing a JSON object with the follo
 - `Horse_Have` – horses
 
 (Other keys are preserved but not edited.)
-
-## 🤝 Credits & Contributors
-
-| Who | Contribution |
-|-----|--------------|
-| [Ada9digit](https://github.com/Ada9digit/House-of-Legacy-ES3-Editor) | Original author and maintainer of this editor |
-| [DanangSeptiadi](https://github.com/DanangSeptiadi/House-of-Legacy-ES3-Editor) | Fork: split into `index.html` / `style.css` / `js/*`, spouse 12‑field pipe layout (`partnerId` / `hobby`), retainer `nl` handling, infertility flag at index 24, Item Reference |
 
 ## 📄 License
 
